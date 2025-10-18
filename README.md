@@ -1,4 +1,4 @@
-# Repository INTRIVIA
+ # Repository INTRIVIA
 
 Repository untuk menyimpan tugas dan file PDF.
 
